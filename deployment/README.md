@@ -75,6 +75,9 @@ The e2e tests are using Protractor and Jasmine.
 http://new-bucket-demo-5.s3-website-us-east-1.amazonaws.com
 ##frontend ui
 <img src="/screenshot/deployUi.jpeg" width="600" height="300"/>
+<img src="/screenshot/ui1.jpeg" width="600" height="300"/>
+<img src="/screenshot/ui2.jpeg" width="600" height="300"/>
+
 ##aws s3
 <img src="/screenshot/s3.jpeg" width="600" height="300"/>
 ##aws rds
@@ -84,6 +87,9 @@ http://new-bucket-demo-5.s3-website-us-east-1.amazonaws.com
 ## architecture diagram 
 <img src="/screenshot/digrame.png" width="600" height="300"/>
 ##pipeline
+
+<img src="/screenshot/pipeline.jpeg" width="600" height="300"/>
+
 <img src="/screenshot/pipeline1.jpeg" width="600" height="300"/>
 <img src="/screenshot/pipeline2.jpeg" width="600" height="300"/>
 <img src="/screenshot/pipeline3.jpeg" width="600" height="300"/>
