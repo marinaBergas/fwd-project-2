@@ -72,4 +72,5 @@ The e2e tests are using Protractor and Jasmine.
 [License](LICENSE.txt)
 
 ## aws 
-http://new-bucket-demo-5.s3-website-us-east-1.amazonaws.com/home
+http://new-bucket-demo-5.s3-website-us-east-1.amazonaws.com
+
