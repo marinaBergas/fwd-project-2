@@ -74,4 +74,5 @@ The e2e tests are using Protractor and Jasmine.
 ## aws 
 http://new-bucket-demo-5.s3-website-us-east-1.amazonaws.com
 
-![alt text](https://github.com/[marinaBergas]/[fwd-project-2]/blob/[master]/screenshot/deployUi.jpeg?raw=true)
+<!-- ![alt text](https://github.com/[marinaBergas]/[fwd-project-2]/blob/[master]/screenshot/deployUi.jpeg?raw=true) -->
+<img src="/screenshot/deployUi.jpeg"/>
