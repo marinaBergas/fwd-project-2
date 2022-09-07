@@ -86,6 +86,8 @@ http://new-bucket-demo-5.s3-website-us-east-1.amazonaws.com
 <img src="/screenshot/eb.jpeg" width="600" height="300"/>
 ## architecture diagram 
 <img src="/screenshot/digrame.png" width="600" height="300"/>
+<img src="/screenshot/digrame2.png" width="600" height="300"/>
+
 ##pipeline
 
 <img src="/screenshot/pipeline.jpeg" width="600" height="300"/>
